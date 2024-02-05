@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ![My  GitHub stats](https://github-readme-stats.vercel.app/api?username=bachurskii&show_icons=true)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bachurskii&layout=compact)
 ### Skills and Tools
-
+ 
 ![HTML5](https://img.shields.io/badge/HTML-HTML5-orange)
 ![CSS3](https://img.shields.io/badge/CSS-CSS3-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
