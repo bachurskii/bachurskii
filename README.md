@@ -23,3 +23,4 @@ Here are some ideas to get you started:
 ![React](https://img.shields.io/badge/React-ReactJS-blue)
 ![Node.js](https://img.shields.io/badge/Node.js-Node-green)
 ![MongoDB](https://img.shields.io/badge/MongoDB-MongoDB-green)
+![Git](https://img.shields.io/badge/Git-Git-orange)
