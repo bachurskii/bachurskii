@@ -20,4 +20,6 @@ Here are some ideas to get you started:
 ![HTML5](https://img.shields.io/badge/HTML-HTML5-orange)
 ![CSS3](https://img.shields.io/badge/CSS-CSS3-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
+![PHP](https://img.shields.io/badge/PHP-8.2-blue)
 ![Git](https://img.shields.io/badge/Git-Git-orange)
+
