@@ -20,7 +20,4 @@ Here are some ideas to get you started:
 ![HTML5](https://img.shields.io/badge/HTML-HTML5-orange)
 ![CSS3](https://img.shields.io/badge/CSS-CSS3-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
-![React](https://img.shields.io/badge/React-ReactJS-blue)
-![Node.js](https://img.shields.io/badge/Node.js-Node-green)
-![MongoDB](https://img.shields.io/badge/MongoDB-MongoDB-green)
 ![Git](https://img.shields.io/badge/Git-Git-orange)
